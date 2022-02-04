@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Company>ELTE, Faculty of Informatics</Company>
+    <Authors>Roberto Giachetta, Máté Cserép</Authors>
+    <Copyright>Copyright © Eötvös Loránd University (ELTE) 2020</Copyright>
+    <RootNamespace>ELTE.Calculator</RootNamespace>
+  </PropertyGroup>
+
+</Project>
